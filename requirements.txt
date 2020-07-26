@@ -5,3 +5,5 @@ chardet==3.0.4
 idna==2.10
 multidict==4.7.6
 yarl==1.4.2
+
+gevent~=20.6.2
